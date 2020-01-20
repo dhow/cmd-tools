@@ -3,7 +3,10 @@ My command-line tools for Linux
 
 ## check-tls
 
-Check TLS version and certificate expiry
+Check TLS version and certificate expiry. 
+On a side note, [testssl.sh][1] does a far better job :smile:.
+
+[1]: https://github.com/drwetter/testssl.sh
 
 ```
 $ check-tls google.com
